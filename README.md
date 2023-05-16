@@ -1,6 +1,6 @@
 # odin-landing-page
 
-Credit of the image used:
+Credit of the images used:
 
 "Night" by Purgin_Alexandr
 https://pixabay.com/photos/night-stairs-vista-black-white-7628754/
