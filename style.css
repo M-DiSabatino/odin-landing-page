@@ -154,3 +154,14 @@ a {
     text-decoration: none;
     color: #f9faf8
 }
+
+.fill {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+}
+
+.first img {
+    border-radius: 10px;
+}
